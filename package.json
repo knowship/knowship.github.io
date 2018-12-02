@@ -1,0 +1,22 @@
+{
+    "title": "Half Slider",
+    "name": "startbootstrap-half-slider",
+    "version": "4.1.1",
+    "description": "Knowship website",
+    "keywords": [
+        "css",
+        "sass",
+        "html",
+        "responsive",
+        "theme",
+        "template"
+    ],
+    "dependencies": {
+        "bootstrap": "4.1.1",
+        "jquery": "3.3.1"
+    },
+    "devDependencies": {
+        "browser-sync": "2.24.5",
+        "gulp": "^3.9.1"
+    }
+}
